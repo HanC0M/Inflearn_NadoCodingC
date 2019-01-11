@@ -1,10 +1,10 @@
 // 거꾸로 된 피라미드의 층을 입력받아 세워보자
 // 유희왕 천년퍼즐
 /*
-*******
- *****
-  ***
-   *
+*******	0
+ *****		1
+  ***			2
+   *			3
 */
 #include<stdio.h>
 int main(void) {
@@ -26,7 +26,7 @@ int main(void) {
 		for (int j = 0; j <= i - 1; j++) {
 			printf(" ");
 		}
-		for (int k = 0; k < 2 * (floor - i) - 1; k++) {
+		for (int k = 0; k < 2 * (floor - i) - 1;k++) {
 			printf("*");
 		}
 		printf("\n");

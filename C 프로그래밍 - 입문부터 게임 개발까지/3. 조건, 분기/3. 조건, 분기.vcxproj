@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{F86E531B-6570-42AE-A0E5-04E06B6826C4}</ProjectGuid>
+    <ProjectGuid>{0625A686-678B-4986-AFFE-D700B119A37C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>My1변수상수입출력</RootNamespace>
+    <RootNamespace>My3조건분기</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
