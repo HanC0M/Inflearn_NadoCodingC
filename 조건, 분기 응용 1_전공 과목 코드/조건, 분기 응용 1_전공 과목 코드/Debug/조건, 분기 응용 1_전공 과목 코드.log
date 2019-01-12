@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\kohpn\desktop\인프런 강좌\c프로그래밍 - 입문부터 게임 개발까지\조건, 분기 응용 1_전공 과목 코드\조건, 분기 응용 1_전공 과목 코드\main.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  조건, 분기 응용 1_전공 과목 코드.vcxproj -> C:\Users\kohpn\Desktop\인프런 강좌\C프로그래밍 - 입문부터 게임 개발까지\조건, 분기 응용 1_전공 과목 코드\Debug\조건, 분기 응용 1_전공 과목 코드.exe
