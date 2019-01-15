@@ -47,5 +47,46 @@ int main(void) {
 	*/
 
 	// int arr[]={1,2}; // arr[2]
-	return 0;
+
+	// 문자와 문자열
+	
+	/*
+	char c = 'A';  // 문자
+	printf("%c\n", c);
+	*/
+	// 문자열 끝에는 '끝'을 의미하는 NULL 문자 '\0'이 포함되어야 함
+	/*
+	char string[7]="coding"; // [c][o][d][i][n][g][\0]
+	printf("%s\n", string);
+
+	char str[] = "coding";
+	printf("%d\n", sizeof(str));
+
+	for (int i = 0; i < sizeof(str); i++) {
+		printf("%c\n", str[i]);
+	}
+	*/
+
+	// 영어 1글자 = 1바이트, 한글 2글자 = 2바이트
+	// char 자료형 크기 : 1byte
+	
+	// 문자열 심화
+	/*
+	char c_array[7] = { 'c','o','d','i','n','g','\0' };
+	printf("%s\n", c_array);
+	*/
+	/*
+	char c_array[10]= { 'c','o','d','i','n','g' };
+	printf("%s\n", c_array);
+	
+	for (int i = 0; i < 10; i++) {
+		printf("%c\n", c_array[i]);
+	}
+	
+	for (int i = 0; i < 10; i++) {
+		printf("%d\n", c_array[i]); // ASCII코드 출력
+	}
+	*/
+
+	return 0; 
 }
