@@ -1,4 +1,4 @@
-﻿  main.cpp
-c:\users\kohpn\desktop\인프런 강좌\c프로그래밍 - 입문부터 게임 개발까지\c 프로그래밍 - 입문부터 게임 개발까지\2. 반복문\main.cpp(105): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  main.c
+c:\users\kohpn\desktop\인프런 강좌\c프로그래밍 - 입문부터 게임 개발까지\c 프로그래밍 - 입문부터 게임 개발까지\2. 반복문\main.c(105): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
   2. 반복문.vcxproj -> C:\Users\kohpn\Desktop\인프런 강좌\C프로그래밍 - 입문부터 게임 개발까지\C 프로그래밍 - 입문부터 게임 개발까지\Debug\2. 반복문.exe
