@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\kohpn\desktop\인프런 강좌\c프로그래밍 - 입문부터 게임 개발까지\c 프로그래밍 - 입문부터 게임 개발까지\7. 다차원 배열 프로젝트 - 동물 뒤집기\main.c(24): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\kohpn\desktop\인프런 강좌\c프로그래밍 - 입문부터 게임 개발까지\c 프로그래밍 - 입문부터 게임 개발까지\7. 다차원 배열 프로젝트 - 동물 뒤집기\main.c(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\kohpn\desktop\인프런 강좌\c프로그래밍 - 입문부터 게임 개발까지\c 프로그래밍 - 입문부터 게임 개발까지\7. 다차원 배열 프로젝트 - 동물 뒤집기\main.c(113): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  7. 다차원 배열 프로젝트 - 동물 뒤집기.vcxproj -> C:\Users\kohpn\Desktop\인프런 강좌\C프로그래밍 - 입문부터 게임 개발까지\C 프로그래밍 - 입문부터 게임 개발까지\Debug\7. 다차원 배열 프로젝트 - 동물 뒤집기.exe
