@@ -121,7 +121,7 @@ int main(void) {
 
 	// 값에 의한 복사 (Call by Value) -> 값만 복사한다는 의미
 
-	// 주소값을 넘기면? 메모리 공간에 있는 주소값 자체를 넘기면...
+	// 주소값을 넘기면? 메모리 공간에 있는 주소값 자체를 넘기면...(Call by Address)
 	printf("(주소값 전달)swap 함수 전 => a = %d, b = %d\n", a, b);
 	swap_addr(&a, &b);
 	printf("(주소값 전달)swap 함수 후 => a = %d, b = %d\n", a, b);
