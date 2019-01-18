@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7. 다차원 배열", "7. �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "7. 다차원 배열 프로젝트 - 동물 뒤집기", "7. 다차원 배열 프로젝트 - 동물 뒤집기\7. 다차원 배열 프로젝트 - 동물 뒤집기.vcxproj", "{418ED600-B434-42B5-94DE-A150FCB98A3B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8. 구조체", "8. 구조체\8. 구조체.vcxproj", "{DFD3E56B-64AC-4565-A2EE-6C5D4FB76FE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{418ED600-B434-42B5-94DE-A150FCB98A3B}.Release|x64.Build.0 = Release|x64
 		{418ED600-B434-42B5-94DE-A150FCB98A3B}.Release|x86.ActiveCfg = Release|Win32
 		{418ED600-B434-42B5-94DE-A150FCB98A3B}.Release|x86.Build.0 = Release|Win32
+		{DFD3E56B-64AC-4565-A2EE-6C5D4FB76FE9}.Debug|x64.ActiveCfg = Debug|x64
+		{DFD3E56B-64AC-4565-A2EE-6C5D4FB76FE9}.Debug|x64.Build.0 = Debug|x64
+		{DFD3E56B-64AC-4565-A2EE-6C5D4FB76FE9}.Debug|x86.ActiveCfg = Debug|Win32
+		{DFD3E56B-64AC-4565-A2EE-6C5D4FB76FE9}.Debug|x86.Build.0 = Debug|Win32
+		{DFD3E56B-64AC-4565-A2EE-6C5D4FB76FE9}.Release|x64.ActiveCfg = Release|x64
+		{DFD3E56B-64AC-4565-A2EE-6C5D4FB76FE9}.Release|x64.Build.0 = Release|x64
+		{DFD3E56B-64AC-4565-A2EE-6C5D4FB76FE9}.Release|x86.ActiveCfg = Release|Win32
+		{DFD3E56B-64AC-4565-A2EE-6C5D4FB76FE9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
