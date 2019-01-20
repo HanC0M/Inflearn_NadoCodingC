@@ -91,7 +91,7 @@ int main(void) {
 	printf("4. 키를 입력하세요 : ");
 	scanf("%f", &height);
 
-	getchar(); // 입력 버퍼에 남아있던 Enter를 getchar를 통해서 해제해준다
+	// getchar(); // 입력 버퍼에 남아있던 Enter를 getchar를 통해서 해제해준다
 
 	printf("5. 어떤 범죄를 저질렀는지 적으세요 : ");
 	scanf("%[^\n]s", &crime, sizeof(crime));
