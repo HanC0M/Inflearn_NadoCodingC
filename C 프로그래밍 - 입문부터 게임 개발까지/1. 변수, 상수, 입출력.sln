@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1. 변수, 상수, 입출력", "1. 변수, 상수, 입출력\1. 변수, 상수, 입출력.vcxproj", "{F86E531B-6570-42AE-A0E5-04E06B6826C4}"
 EndProject
@@ -28,6 +28,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8. 구조체", "8. 구조체\8. 구조체.vcxproj", "{DFD3E56B-64AC-4565-A2EE-6C5D4FB76FE9}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8. 구조체 프로젝트 - 너 내 집사가 되어라", "8. 구조체 프로젝트 - 너 내 집사가 되어라\8. 구조체 프로젝트 - 너 내 집사가 되어라.vcxproj", "{8B0D7C16-DDE6-42A0-9DEA-D00FA6B9DF57}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "9. 파일 입출력", "9. 파일 입출력\9. 파일 입출력.vcxproj", "{13EB82DA-A48F-49DE-845B-E48EF9E79643}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,14 @@ Global
 		{8B0D7C16-DDE6-42A0-9DEA-D00FA6B9DF57}.Release|x64.Build.0 = Release|x64
 		{8B0D7C16-DDE6-42A0-9DEA-D00FA6B9DF57}.Release|x86.ActiveCfg = Release|Win32
 		{8B0D7C16-DDE6-42A0-9DEA-D00FA6B9DF57}.Release|x86.Build.0 = Release|Win32
+		{13EB82DA-A48F-49DE-845B-E48EF9E79643}.Debug|x64.ActiveCfg = Debug|x64
+		{13EB82DA-A48F-49DE-845B-E48EF9E79643}.Debug|x64.Build.0 = Debug|x64
+		{13EB82DA-A48F-49DE-845B-E48EF9E79643}.Debug|x86.ActiveCfg = Debug|Win32
+		{13EB82DA-A48F-49DE-845B-E48EF9E79643}.Debug|x86.Build.0 = Debug|Win32
+		{13EB82DA-A48F-49DE-845B-E48EF9E79643}.Release|x64.ActiveCfg = Release|x64
+		{13EB82DA-A48F-49DE-845B-E48EF9E79643}.Release|x64.Build.0 = Release|x64
+		{13EB82DA-A48F-49DE-845B-E48EF9E79643}.Release|x86.ActiveCfg = Release|Win32
+		{13EB82DA-A48F-49DE-845B-E48EF9E79643}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
